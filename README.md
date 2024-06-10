@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lixy7
 - 👀 I’m interested in Microbiota, Biochemistry, Microbiology and Bioinformatics
-- 🌱 I’m currently learning about R, Python, Biostatics & Epidemiology
+- 🌱 I’m currently learning about R, Python, Biostatistics & Epidemiology
 - 💞️ I’m looking to collaborate on Microbiota
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
